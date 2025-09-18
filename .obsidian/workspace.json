@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "lana del rey/细品video games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "细品video games"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "b4b1872f2bf1715d",
   "lastOpenFiles": [
+    "Welcome.md",
     "Test.md",
     "lana del rey/细品video games.md",
     "lana del rey/video games.canvas",
@@ -178,7 +179,6 @@
     "papers/clinical benchmark ai/数据来源 其余clinical bench..md",
     "未命名",
     "lana del rey",
-    "Welcome.md",
     "2025-09-15.md",
     "Pasted image 20250918152232.png",
     "Pasted image 20250918143814.png",
